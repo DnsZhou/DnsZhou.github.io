@@ -10,7 +10,7 @@ meta_description: "Your New Jekyll Site, Blogging about stuffs"
 description: > # this means to ignore newlines until "baseurl:"
   描述暂空
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://DnsZhou.github.io" 
 twitter_username: DnsZhou
 github_username:  DnsZhou
 
