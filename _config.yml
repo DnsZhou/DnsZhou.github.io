@@ -9,7 +9,7 @@ email: zt1020@yeah.net
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 description: > # this means to ignore newlines until "baseurl:"
   描述暂空
-baseurl: "/blog2" # the subpath of your site, e.g. /blog
+baseurl: "/" 
 url: "http://DnsZhou.github.io" 
 twitter_username: DnsZhou
 github_username:  DnsZhou
